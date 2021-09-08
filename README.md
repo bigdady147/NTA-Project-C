@@ -1,1 +1,1 @@
-# NTA-Project-C
+# MyProject
